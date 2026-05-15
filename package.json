@@ -1,0 +1,24 @@
+{
+  "name": "project-ceiba",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@barba/core": "^2.10.3",
+    "animejs": "^4.4.1",
+    "gsap": "^3.15.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
